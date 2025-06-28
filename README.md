@@ -41,15 +41,15 @@ The solution is tailored for an asset management firm handling wealth portfolios
 1. **Clone the repository:**
 
 ```bash
-git clone <your-repo-url>
-cd <your-repo>
+git clone https://github.com/rishugkp688/Ai_Agent_Test_Project.git
+cd Ai_Agent_Test_Project
 ```
 
 2. **Create Python virtual environment and activate:**
 
 ```bash
-python -m venv venv
-source venv/bin/activate  # On Windows: venv\Scripts\activate
+python -m venv env
+source env/bin/activate  # On Windows: env\Scripts\activate
 ```
 
 3. **Install dependencies:**
@@ -111,7 +111,7 @@ This should start the React app on `http://localhost:5173` (or similar port).
 
 ## License
 
-MIT License (or your chosen license).
+MIT License
 
 ## Credits
 
