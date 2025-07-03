@@ -60,7 +60,7 @@ pip install -r requirements.txt
 pip install "fastapi[all]" "uvicorn[standard]" langchain langchain-community "sqlalchemy" "psycopg2-binary" "pymongo" python-dotenv langchainhub langchain-ollama
 ```
 
-4. **Create a **\`\`** file in the backend directory with:**
+4. **Create a **\`.env\`** file in the backend directory with:**
 
 ```
 POSTGRES_USER=your_pg_user
